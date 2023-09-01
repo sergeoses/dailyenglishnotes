@@ -38,6 +38,5 @@ header h1 {
     color: black;
 }
 .topnav a.active {
-    background-color: aquamarine;
     color: dimgray;
 }
