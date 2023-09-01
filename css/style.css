@@ -2,3 +2,12 @@ body {
     margin: 0;
     padding: 0;
 }
+header {
+    background-color: blanchedalmond;
+    color: black;
+    padding: 20px;
+    text-align: left;
+}
+header h1 {
+    margin: 0;
+}
