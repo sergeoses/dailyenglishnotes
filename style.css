@@ -36,6 +36,3 @@ header h1 {
 .topnav a:hover {
     color: black;
 }
-.topnav a.active {
-    color: dimgray;
-}
