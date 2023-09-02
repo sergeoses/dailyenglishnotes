@@ -36,3 +36,15 @@ header h1 {
 .topnav a:hover {
     color: black;
 }
+@media screen and (min-width: 1920px)
+    { 
+        header {
+           padding: 30px;
+        }
+        header h1 {
+            font-size: 48px;
+        }
+        .topnav a {
+            margin-left: 30px;
+        }
+}
